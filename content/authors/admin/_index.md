@@ -78,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-Sourav Adhikari works as a consulting Data Scientist at Policy & Development Advisory Group. His interests and work include automation in data extracction and cleaning processes, web scraping of various data sources, analysis of large scale socio-economic-political and demographic datasets, GIS based visualizations & statistical modelling. His other interests include effective usage of data in decision-making and public-policy sphere, as well as democratisation of data using participatory methods.
+Sourav Adhikari works as a consulting Data Scientist at Policy & Development Advisory Group. His interests and work include automation of data analysis workflows, web-scraping of various data sources, analysis of large scale socio-economic-political and demographic datasets, GIS based visualizations & statistical modelling. His other interests include effective usage of data in decision-making, public-policy and politics. He believes in  democratisation of data using participatory methods and supports the free and open-source software (FOSS) community.
 
  
