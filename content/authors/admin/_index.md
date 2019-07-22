@@ -28,7 +28,6 @@ interests:
 - Visualization
 - Public Policy
 - Politics
-- Genetics
 
 education:
   courses:
