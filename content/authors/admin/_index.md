@@ -35,13 +35,7 @@ education:
   - course: MSc in Disaster Management 
     institution: Tata Institute of Social Sciences (TISS), Mumbai
     year: 2018
-  - course: MSc in Botany
-    institution: Department of Botany, University of Pune
-    year: 2014
-  - course: BSc(Hons) in Botany
-    institution: Bidhannagar College, Kolkata
-    year: 2012
-
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
