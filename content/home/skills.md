@@ -18,54 +18,54 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
-
-[[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "Github"
-  description = "60%"
-
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "60%"
+  #description = "80%"
 
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "GIS"
-  description = "80%"
+  #description = "80%"
 
 [[feature]]
-  icon = "globe"
+  icon = "code-branch"
   icon_pack = "fas"
-  name = "Web Development"
-  description = "40%"
+  name = "Github"
+  #description = "60%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  #description = "60%"
+
+[[feature]]
+  icon = "file-alt"
+  icon_pack = "fas"
+  name = "Quantitative Research"
+  #description = "70%"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  #description = "50%"
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "far"
+  name = "Tableau"
+  #description = "50%"  
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "50%"
+  #description = "50%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "globe"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "50%"
-
-[[feature]]
-  icon = "chart-bar"
-  icon_pack = "far"
-  name = "Tableau"
-  description = "60%"  
-  
-[[feature]]
-  icon = "file-alt"
-  icon_pack = "fas"
-  name = "Quantitative Research"
-  description = "70%"
+  name = "Web Development"
+  #description = "40%"
 
 +++
