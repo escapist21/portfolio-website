@@ -21,6 +21,12 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Github"
+  description = "60%"
+
+[[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
@@ -37,12 +43,24 @@ subtitle = ""
   icon_pack = "fas"
   name = "Web Development"
   description = "40%"
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "50%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "50%"  
+  description = "50%"
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "far"
+  name = "Tableau"
+  description = "60%"  
   
 [[feature]]
   icon = "file-alt"
