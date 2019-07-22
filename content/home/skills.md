@@ -18,54 +18,54 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  #description = "80%"
+  description = ""
 
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "GIS"
-  #description = "80%"
+  description = ""
 
 [[feature]]
   icon = "code-branch"
   icon_pack = "fas"
   name = "Github"
-  #description = "60%"
+  description = ""
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  #description = "60%"
+  description = ""
 
 [[feature]]
   icon = "file-alt"
   icon_pack = "fas"
   name = "Quantitative Research"
-  #description = "70%"
+  description = ""
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  #description = "50%"
+  description = ""
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
   name = "Tableau"
-  #description = "50%"  
+  description = ""  
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  #description = "50%"
+  description = ""
   
 [[feature]]
   icon = "globe"
   icon_pack = "fas"
   name = "Web Development"
-  #description = "40%"
+  description = ""
 
 +++
