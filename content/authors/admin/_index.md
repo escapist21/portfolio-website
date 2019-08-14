@@ -18,7 +18,7 @@ organizations:
   url: "https://www.pdag.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sourav Adhikari is employed as a Data Scientist at Policy & Development Advisory Group (PDAG). His interests include big data, automation, geoinformatics, data-driven decision making, public-policy and politics.
+bio: TISS alum. Data & Analytics at [Policy and Development Advisory Group (PDAG)](https://www.pdag.in). Interested in automation, geoinformatics, visualisation, policy & politics.
 
 interests:
 - Automation
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Sourav Adhikari works as a consulting Data Scientist at Policy & Development Advisory Group. His interests and work include automation of data analysis workflows, web-scraping of various data sources, analysis of large scale socio-economic-political and demographic datasets, GIS based visualizations & statistical modelling. His other interests include effective usage of data in decision-making, public-policy and politics. He believes in  democratisation of data using participatory methods and supports the free and open-source software (FOSS) community.
+Sourav Adhikari works as a consulting Data Scientist at [Policy & Development Advisory Group (PDAG)](https://www.pdag.in). His interests and work include automation of data analysis workflows, web-scraping of various data sources, analysis of large scale socio-economic-political and demographic datasets, GIS based visualizations & statistical modelling. His other interests include effective usage of data in decision-making, public-policy and politics. He believes in  democratisation of data using participatory methods and supports the free and open-source software (FOSS) community.
 
  
